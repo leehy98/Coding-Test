@@ -127,9 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="120837 가위 바위 보.cpp" />
+    <ClCompile Include="120837 개미군단.cpp" />
     <ClCompile Include="120851 숨어있는 숫자의 덧셈.cpp" />
     <ClCompile Include="120892 암호해독.cpp" />
+    <ClCompile Include="120893 대문자와 소문자.cpp" />
     <ClCompile Include="120908 문자열 안에 문자열.cpp" />
+    <ClCompile Include="120910 세균증식.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

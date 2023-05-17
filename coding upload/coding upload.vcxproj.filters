@@ -13,16 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="리소스 파일\프로그래머스">
+      <UniqueIdentifier>{259c4ff2-d553-46fc-8845-e477af24c747}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="120908 문자열 안에 문자열.cpp">
-      <Filter>리소스 파일</Filter>
+      <Filter>리소스 파일\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="120851 숨어있는 숫자의 덧셈.cpp">
-      <Filter>리소스 파일</Filter>
+      <Filter>리소스 파일\프로그래머스</Filter>
     </ClCompile>
     <ClCompile Include="120892 암호해독.cpp">
-      <Filter>리소스 파일</Filter>
+      <Filter>리소스 파일\프로그래머스</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
