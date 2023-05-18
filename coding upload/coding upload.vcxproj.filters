@@ -13,19 +13,52 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="리소스 파일\프로그래머스">
+    <Filter Include="리소스 파일\0">
       <UniqueIdentifier>{259c4ff2-d553-46fc-8845-e477af24c747}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\1">
+      <UniqueIdentifier>{f05072e1-a9e3-414f-9329-abbc731780bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\2">
+      <UniqueIdentifier>{5ff1b5be-d361-4ead-bdcf-d17e9b84e6ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\3">
+      <UniqueIdentifier>{89d6fb1e-ba2b-417f-baf4-050835ff151b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="120908 문자열 안에 문자열.cpp">
-      <Filter>리소스 파일\프로그래머스</Filter>
+      <Filter>리소스 파일\0</Filter>
     </ClCompile>
     <ClCompile Include="120851 숨어있는 숫자의 덧셈.cpp">
-      <Filter>리소스 파일\프로그래머스</Filter>
+      <Filter>리소스 파일\0</Filter>
     </ClCompile>
     <ClCompile Include="120892 암호해독.cpp">
-      <Filter>리소스 파일\프로그래머스</Filter>
+      <Filter>리소스 파일\0</Filter>
+    </ClCompile>
+    <ClCompile Include="120837 개미군단.cpp">
+      <Filter>리소스 파일\0</Filter>
+    </ClCompile>
+    <ClCompile Include="120837 가위 바위 보.cpp">
+      <Filter>리소스 파일\0</Filter>
+    </ClCompile>
+    <ClCompile Include="120910 세균증식.cpp">
+      <Filter>리소스 파일\0</Filter>
+    </ClCompile>
+    <ClCompile Include="120893 대문자와 소문자.cpp">
+      <Filter>리소스 파일\0</Filter>
+    </ClCompile>
+    <ClCompile Include="120845 주사위의 개수.cpp">
+      <Filter>리소스 파일\0</Filter>
+    </ClCompile>
+    <ClCompile Include="120823 직각삼각형 출력.cpp">
+      <Filter>리소스 파일\0</Filter>
+    </ClCompile>
+    <ClCompile Include="120850 문자열 정렬하기.cpp">
+      <Filter>리소스 파일\0</Filter>
+    </ClCompile>
+    <ClCompile Include="120862 최댓값 만들기.cpp">
+      <Filter>리소스 파일\0</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
