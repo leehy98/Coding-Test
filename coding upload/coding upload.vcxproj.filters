@@ -60,5 +60,11 @@
     <ClCompile Include="120862 최댓값 만들기.cpp">
       <Filter>리소스 파일\0</Filter>
     </ClCompile>
+    <ClCompile Include="178871 달리기 경주.cpp">
+      <Filter>리소스 파일\1</Filter>
+    </ClCompile>
+    <ClCompile Include="120905 n의 배수 고르기.cpp">
+      <Filter>리소스 파일\0</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
