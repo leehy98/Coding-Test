@@ -66,5 +66,14 @@
     <ClCompile Include="120905 n의 배수 고르기.cpp">
       <Filter>리소스 파일\0</Filter>
     </ClCompile>
+    <ClCompile Include="120895 인덱스 바꾸기.cpp">
+      <Filter>리소스 파일\0</Filter>
+    </ClCompile>
+    <ClCompile Include="120899 가장 큰수찾기.cpp">
+      <Filter>리소스 파일\0</Filter>
+    </ClCompile>
+    <ClCompile Include="120844 배열 회전시키기.cpp">
+      <Filter>리소스 파일\0</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
