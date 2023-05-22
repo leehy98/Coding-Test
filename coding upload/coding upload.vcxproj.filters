@@ -75,5 +75,11 @@
     <ClCompile Include="120844 배열 회전시키기.cpp">
       <Filter>리소스 파일\0</Filter>
     </ClCompile>
+    <ClCompile Include="159994 카드뭉치.cpp">
+      <Filter>리소스 파일\1</Filter>
+    </ClCompile>
+    <ClCompile Include="176963 추억 점수.cpp">
+      <Filter>리소스 파일\1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

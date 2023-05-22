@@ -7,7 +7,7 @@ using namespace std;
 // map에 대한 참조 사이트 https://life-with-coding.tistory.com/305
 //STL인 map를 사용해 players 의 인덱스를 복사한다. callings, positions를 비교하면서 players 의 인덱스를 바꾼다. 그 후 바뀐 정보를 positions에 업데이트 해준다.
 
-vector<string> solution(vector<string> players, vector<string> callings) 
+vector<string> solution(vector<string> players, vector<string> callings)
 {
     // 선수의 이름(key)과 위치(value)를 가져온다.
     map<string,int> positions;
