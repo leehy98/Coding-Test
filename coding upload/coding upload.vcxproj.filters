@@ -78,5 +78,20 @@
     <ClCompile Include="12944 평균 구하기.cpp">
       <Filter>1</Filter>
     </ClCompile>
+    <ClCompile Include="12937 짝수와 홀수.cpp">
+      <Filter>1</Filter>
+    </ClCompile>
+    <ClCompile Include="12931 자릿수 더하기.cpp">
+      <Filter>1</Filter>
+    </ClCompile>
+    <ClCompile Include="87389 나머지가 1인수 찾기.cpp">
+      <Filter>1</Filter>
+    </ClCompile>
+    <ClCompile Include="12954 x만큼 간격이있는 n개의 숫자.cpp">
+      <Filter>1</Filter>
+    </ClCompile>
+    <ClCompile Include="12934 정수 제곱근 판별.cpp">
+      <Filter>1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
