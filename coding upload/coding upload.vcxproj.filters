@@ -105,5 +105,8 @@
     <ClCompile Include="12933 정수 내림차순 정렬.cpp">
       <Filter>1</Filter>
     </ClCompile>
+    <ClCompile Include="12947 하샤드수.cpp">
+      <Filter>1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
