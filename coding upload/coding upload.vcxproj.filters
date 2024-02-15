@@ -159,5 +159,20 @@
     <ClCompile Include="BFS 미로 탐색 2178.cpp">
       <Filter>Bakjoon</Filter>
     </ClCompile>
+    <ClCompile Include="stack 탑 2493.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="stack 스택 10828.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="stack 제로 10773.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="DP 2xn 타일링 11726.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS 유기농 배추 1012.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

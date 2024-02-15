@@ -39,8 +39,6 @@ int main()
 		{
 			pq.push(x);
 		}
-
 	}
-
 	return 0;
 }
