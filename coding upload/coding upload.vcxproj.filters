@@ -171,7 +171,22 @@
     <ClCompile Include="DP 2xn 타일링 11726.cpp">
       <Filter>Bakjoon</Filter>
     </ClCompile>
-    <ClCompile Include="BFS 유기농 배추 1012.cpp">
+    <ClCompile Include="DFS 유기농 배추 1012.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS 알파벳 1987.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS 연결 요소의 개수 11724.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS 섬의 개수 4963.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS 적록색약 10026.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="greed ATM 11399.cpp">
       <Filter>Bakjoon</Filter>
     </ClCompile>
   </ItemGroup>

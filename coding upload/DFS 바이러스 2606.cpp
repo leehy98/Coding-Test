@@ -10,7 +10,7 @@ int VirusCheck(int computer)
 	visited[computer] = true;
 	int count = 0;
 
-	for (int i = 0; i < network[computer].size(); i++)  
+	for (size_t i = 0; i < network[computer].size(); i++)  
 	{
 		int connected = network[computer][i]; 
 		if (!visited[connected]) 
