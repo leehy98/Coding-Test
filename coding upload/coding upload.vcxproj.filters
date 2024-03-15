@@ -189,5 +189,17 @@
     <ClCompile Include="greed ATM 11399.cpp">
       <Filter>Bakjoon</Filter>
     </ClCompile>
+    <ClCompile Include="math 분산처리 1009.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="greed 동전0 11047.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="string 괄호 9012 .cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="math 다리 놓기 1010.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
