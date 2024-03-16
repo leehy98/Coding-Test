@@ -201,5 +201,8 @@
     <ClCompile Include="math 다리 놓기 1010.cpp">
       <Filter>Bakjoon</Filter>
     </ClCompile>
+    <ClCompile Include="math 곱셈 1629.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
