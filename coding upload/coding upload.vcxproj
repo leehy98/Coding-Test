@@ -131,6 +131,7 @@
     <ClCompile Include="BFS 미로 탐색 2178.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="binarySearch 숫자카드2 10816.cpp" />
     <ClCompile Include="DFS 섬의 개수 4963.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

@@ -204,5 +204,8 @@
     <ClCompile Include="math 곱셈 1629.cpp">
       <Filter>Bakjoon</Filter>
     </ClCompile>
+    <ClCompile Include="binarySearch 숫자카드2 10816.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
