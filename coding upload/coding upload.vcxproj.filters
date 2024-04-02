@@ -13,6 +13,9 @@
     <Filter Include="Bakjoon">
       <UniqueIdentifier>{dcfd4cc9-9dc4-42d1-8480-342eb7c4ee00}</UniqueIdentifier>
     </Filter>
+    <Filter Include="cpp">
+      <UniqueIdentifier>{4a1f7fd9-8fdd-4755-b8b0-028dfa1f3857}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="120908 문자열 안에 문자열.cpp">
@@ -205,6 +208,15 @@
       <Filter>Bakjoon</Filter>
     </ClCompile>
     <ClCompile Include="binarySearch 숫자카드2 10816.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="unroadered_map.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="좌표 압축 18870.cpp">
+      <Filter>Bakjoon</Filter>
+    </ClCompile>
+    <ClCompile Include="binarySearch 나무 자르기 2805.cpp">
       <Filter>Bakjoon</Filter>
     </ClCompile>
   </ItemGroup>
